@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivamg5501
+- 👋 Hi, I’m @shivamg5501
 - 👀 I’m interested in Competetive Programming,ML/AI.
 - 🏫 I'm Student at IIIT Nagpur,2024 Batch.
 - 🌱 I’m currently learning Data base Management system,Data Structure,Web Developement.
