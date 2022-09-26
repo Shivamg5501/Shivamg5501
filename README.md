@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivamg5501
-- 👀 I’m interested in Competetive Programming,ML/AI.
+- 👀 I’m interested in Competetive Programming,HTML,CSS,Bootstrap.
 - 🏫 I'm Student at IIIT Nagpur,2024 Batch.
 - 🌱 I’m currently learning Data base Management system,Data Structure,Web Developement.
 - 💞️ I’m looking to collaborate on ...
