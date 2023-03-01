@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shivamg5501
-- 👀 I’m interested in Competetive Programming,HTML,CSS,Bootstrap.
-- 🏫 I'm Student at IIIT Nagpur,2024 Batch.
+- 👀 I’m interested in Frontend Development,Competetive Programmer.
+- 🏫 I'm 3rd student at IIIT Nagpur,2024 Batch.
 - 🌱 I’m currently learning Data base Management system,Data Structure,Web Developement.
-- 💞️ 
 - 📫 How to reach me LinkedIn-www.linkedin.com/in/shivamg5501 Insta-www.instagram.com/shivamg5501
 
 <!---
